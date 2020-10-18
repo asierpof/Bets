@@ -1,0 +1,112 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 12:47:19 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 6964@DESKTOP-UOETFC7
+
+[2020-02-21 12:47:19 #2 type.registry] 
+New type domain.Question
+
+[2020-02-21 12:47:19 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-21 12:47:19 #4 type.registry] 
+New type domain.Event
+
+[2020-02-21 12:47:19 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-21 12:47:19 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-02-21 12:47:19 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2020-02-21 12:47:28 #8 type.registry] 
+New type domain.user
+
+[2020-02-21 12:47:28 #9 type] 
+Type domain.user is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 13:13:36 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2020-02-21 13:13:38 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 8840@DESKTOP-UOETFC7
+
+[2020-02-21 13:13:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-21 13:13:38 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-21 13:13:38 #5 type] 
+Type domain.user is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 13:15:33 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2020-02-21 13:15:33 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 6304@DESKTOP-UOETFC7
+
+[2020-02-21 13:15:34 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-21 13:15:34 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-21 13:15:34 #5 type] 
+Type domain.user is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 13:22:44 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 9-9)
+
+[2020-02-21 13:22:45 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 9224@DESKTOP-UOETFC7
+
+[2020-02-21 13:22:46 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-21 13:22:46 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-21 13:22:46 #5 type] 
+Type domain.user is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 13:53:46 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 12456@DESKTOP-UOETFC7
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 13:54:22 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 1212@DESKTOP-UOETFC7
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 13:56:39 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 440@DESKTOP-UOETFC7
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-02-21 13:57:34 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 7204@DESKTOP-UOETFC7
+
+[2020-02-21 13:57:35 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-02-21 13:57:35 #3 type.registry] 
+New type domain.Kuota
+
+[2020-02-21 13:57:35 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-02-21 13:57:35 #5 type] 
+Type domain.user is not enhanced.
+

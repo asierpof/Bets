@@ -1,0 +1,59 @@
+
+,domain.Question#toString()Ljava/lang/String;[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.java› ›("1*®
+1[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ	 œ(¨
+¥
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ	 œ(
+%0java.lang.Integer"__id*'*%
+domain.Question"
+questionNumber¤
+¡
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ	 œ(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;¡
+ž
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ  œ((
+%2java.lang.String"__id*!*
+domain.Question"
+
+question¶
+³
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ	 œ((
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String£
+ 
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ	 œ(.
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;Ä
+Á
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ1 œ(K
+%5java.lang.String"-java.lang.Float#toString(F)Ljava/lang/String;*"
+java.lang.Float*
+""¶
+³
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ	 œ(K
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"w
+[
+OC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Question.javaœ œ(L
+
+%6java.lang.StringB
+domain.Question

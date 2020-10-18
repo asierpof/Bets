@@ -1,0 +1,110 @@
+
+@gui.MainGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java¶ ¶(."3*Ó
+2W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java®, ®(5ñì
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java® ®(+
+%1javax.swing.JRadioButton"javax.swing.JRadioButton«
+ƒ
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java® ®(6
+%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+
+%1javax.swing.JRadioButton*	
+EuskaraÆ
+´
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java® ®(6(
+gui.MainGUI"
+rdbtnNewRadioButton_1"__id* 
+
+%1javax.swing.JRadioButtonÆ
+´
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java© ©(
+%3javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_1äá
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java©. ©(:
+%4Lgui/MainGUI$4793;"Lgui/MainGUI$4793;•
+¢
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java©* Æ(
+%5"%java.awt.event.MouseAdapter#<init>()V*
+
+%4Lgui/MainGUI$4793;ûõ
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java© Æ(
+
+%6void"Djava.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V* 
+
+%3javax.swing.JRadioButton*
+
+%4Lgui/MainGUI$4793;20addMouseListener(Ljava/awt/event/MouseListener;)Æ
+´
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.javaØ Ø(
+%7javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_1äá
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.javaØ/ Ø(=
+%8Lgui/MainGUI$4958;"Lgui/MainGUI$4958;ö
+ó
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.javaØ+ µ(
+%9"java.lang.Object#<init>()V*
+
+%8Lgui/MainGUI$4958;´®
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.javaØ µ(
+%10void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
+
+%7javax.swing.JRadioButton*
+
+%8Lgui/MainGUI$4958;22addActionListener(Ljava/awt/event/ActionListener;)§
+°
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java∂ ∂(
+%11javax.swing.ButtonGroup"__id* *
+gui.MainGUI"
+buttonGroupØ
+¨
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java∂ ∂((
+%12javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_1çä
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java∂ ∂()
+%13void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V* 
+
+%11javax.swing.ButtonGroup*!
+
+%12javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
+1*ï
+3W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.javaß ß(Æ
+´
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.javaß ß(
+%0javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_1*
+2
+1*å
+1W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java∏	 ∏(Ø
+¨
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java∏	 ∏(
+%14javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_1"|
+W
+KC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/gui/MainGUI.java∏ ∏(!
+
+%14javax.swing.JRadioButtonB
+gui.MainGUI

@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaN N("1*‰
+1V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaO	 O(ù
+ö
+V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaO	 O(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumberü
+ú
+V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaO	 O(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;ú
+ô
+V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaO O((
+%2java.lang.String"__id*!*
+domain.Event"
+description±
+Æ
+V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaO	 O((
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"r
+V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaO O()
+
+%3java.lang.StringB
+domain.Event

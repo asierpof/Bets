@@ -1,0 +1,16 @@
+
++domain.Event#getEventDate()Ljava/util/Date;V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaF F("1*è
+1V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaG	 G(˜
+•
+V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaG	 G(
+%0java.util.Date"__id**
+domain.Event"
+	eventDate"p
+V
+LC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/Event.javaG G(
+
+%0java.util.DateB
+domain.Event

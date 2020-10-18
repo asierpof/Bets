@@ -1,0 +1,7 @@
+organization=si2labo1
+projectKey=BetsAsier
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.12128
+dashboardUrl=https://sonarcloud.io/dashboard?id=BetsAsier
+ceTaskId=AXSmGGiJv3iNU6xnaIxX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXSmGGiJv3iNU6xnaIxX

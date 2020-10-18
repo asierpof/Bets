@@ -1,0 +1,52 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 23:19:10 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 17464@DESKTOP-UOETFC7
+
+[2020-03-29 23:19:10 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 23:19:10 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 23:19:10 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-29 23:19:10 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-29 23:19:10 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-29 23:19:10 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2020-03-29 23:19:10 #8 type] 
+Type domain.Apustua is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 23:23:50 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 24184@DESKTOP-UOETFC7
+
+[2020-03-29 23:23:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 23:23:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 23:23:50 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-29 23:23:50 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-29 23:23:50 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-29 23:23:50 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2020-03-29 23:23:50 #8 type] 
+Type domain.Apustua is not enhanced.
+

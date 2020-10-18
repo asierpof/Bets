@@ -1,0 +1,18 @@
+
+Fdomain.IntegerAdapter#unmarshal(Ljava/lang/String;)Ljava/lang/Integer;_
+UC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/IntegerAdapter.java ("1*§
+1_
+UC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/IntegerAdapter.java	 (Ð
+Í
+_
+UC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/IntegerAdapter.java	 (	
+%0int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+sjava.lang.String"n
+_
+UC:/Users/asier/eclipse-workspace/3.iterazioa/src/main/java/domain/IntegerAdapter.java (
+	
+%0int:
+sjava.lang.StringB
+domain.IntegerAdapter

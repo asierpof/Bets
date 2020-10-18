@@ -1,0 +1,935 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:18:26 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 10904@DESKTOP-UOETFC7
+
+[2020-03-01 13:18:26 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:18:26 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:18:26 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:18:26 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:18:26 #6 type.registry] 
+New type domain.Admin
+
+[2020-03-01 13:18:26 #7 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:37:11 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 12736@DESKTOP-UOETFC7
+
+[2020-03-01 13:37:11 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:37:11 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:37:11 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:37:11 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:37:11 #6 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:40:43 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 22356@DESKTOP-UOETFC7
+
+[2020-03-01 13:40:43 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:40:43 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:40:43 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:40:43 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:40:43 #6 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:44:37 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 12248@DESKTOP-UOETFC7
+
+[2020-03-01 13:44:38 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:44:38 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:44:38 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:44:38 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:44:38 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 13:44:38 #7 type.registry] 
+New type domain.NormalUser
+
+[2020-03-01 13:44:38 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:47:49 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 45-45)
+
+[2020-03-01 13:47:49 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 20784@DESKTOP-UOETFC7
+
+[2020-03-01 13:47:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:47:49 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:47:49 #5 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:47:49 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:47:49 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 13:47:49 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:48:33 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 18076@DESKTOP-UOETFC7
+
+[2020-03-01 13:48:33 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:48:33 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:48:33 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:48:33 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:48:33 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 13:48:33 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:52:48 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 22928@DESKTOP-UOETFC7
+
+[2020-03-01 13:52:48 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:52:48 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:52:48 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:52:48 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:52:48 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 13:52:48 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:55:16 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 17224@DESKTOP-UOETFC7
+
+[2020-03-01 13:55:16 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:55:16 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:55:16 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:55:16 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:55:16 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 13:55:16 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 13:56:09 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 16444@DESKTOP-UOETFC7
+
+[2020-03-01 13:56:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 13:56:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 13:56:09 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 13:56:09 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 13:56:09 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 13:56:09 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:07:52 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 17504@DESKTOP-UOETFC7
+
+[2020-03-01 21:07:53 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:07:53 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:07:53 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:07:53 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:07:53 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:07:53 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:09:36 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 15420@DESKTOP-UOETFC7
+
+[2020-03-01 21:09:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:09:36 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:09:36 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:09:36 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:09:36 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:09:36 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:11:08 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 11568@DESKTOP-UOETFC7
+
+[2020-03-01 21:11:08 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:11:08 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:11:08 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:11:08 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:11:08 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:11:08 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:17:35 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 23492@DESKTOP-UOETFC7
+
+[2020-03-01 21:17:35 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:17:35 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:17:35 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:17:35 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:17:35 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:17:35 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:18:55 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 3740@DESKTOP-UOETFC7
+
+[2020-03-01 21:18:55 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:18:55 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:18:55 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:18:55 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:18:55 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:18:55 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:20:08 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 4356@DESKTOP-UOETFC7
+
+[2020-03-01 21:20:08 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:20:08 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:20:08 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:20:08 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:20:08 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:20:08 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:22:20 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 46-46)
+
+[2020-03-01 21:22:20 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 9480@DESKTOP-UOETFC7
+
+[2020-03-01 21:22:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:22:20 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:22:20 #5 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:22:20 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:22:20 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:22:20 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:25:08 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 2376@DESKTOP-UOETFC7
+
+[2020-03-01 21:25:09 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:25:09 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:25:09 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:25:09 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:25:09 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:25:09 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:26:25 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 8520@DESKTOP-UOETFC7
+
+[2020-03-01 21:26:25 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:26:25 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:26:25 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:26:25 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:26:25 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:26:25 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:31:07 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 47-49)
+
+[2020-03-01 21:31:07 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 1812@DESKTOP-UOETFC7
+
+[2020-03-01 21:31:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:31:08 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:31:08 #5 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:31:08 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:31:08 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:31:08 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:37:30 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 50-50)
+
+[2020-03-01 21:37:30 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 22004@DESKTOP-UOETFC7
+
+[2020-03-01 21:37:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:37:30 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:37:30 #5 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:37:30 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:37:30 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:37:30 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:39:02 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 17900@DESKTOP-UOETFC7
+
+[2020-03-01 21:39:02 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:39:02 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:39:02 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:39:02 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:39:02 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:39:02 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:46:51 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 10600@DESKTOP-UOETFC7
+
+[2020-03-01 21:46:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:46:51 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:46:51 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:46:51 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:46:51 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:46:51 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2020-03-01 21:47:01 #8 load] 
+[ObjectDB 2.6.9_09] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 1.8.0_202 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/database/issue/new
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+	at com.objectdb.o.LDR.Vz(LDR.java:1030)
+	at com.objectdb.o.RTT.G(RTT.java:267)
+	at com.objectdb.o.RTT.F(RTT.java:249)
+	at com.objectdb.o.RRT.C(RRT.java:288)
+	at com.objectdb.o.RTT.l(RTT.java:134)
+	at com.objectdb.o.RRT.l(RRT.java:32)
+	at com.objectdb.o.TSK.i(TSK.java:145)
+	at com.objectdb.o.TSK.f(TSK.java:95)
+	at com.objectdb.o.TSM.e(TSM.java:86)
+	at com.objectdb.o.MST.a1(MST.java:707)
+	at com.objectdb.o.MST.aY(MST.java:476)
+	at com.objectdb.o.MST.U6(MST.java:442)
+	at com.objectdb.o.WRA.U6(WRA.java:266)
+	at com.objectdb.o.LDR.G(LDR.java:556)
+	at com.objectdb.o.LDR.F(LDR.java:473)
+	at com.objectdb.o.LDR.A(LDR.java:272)
+	at com.objectdb.o.OBC.aO(OBC.java:1061)
+	at com.objectdb.o.OBC.aM(OBC.java:979)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:599)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:519)
+	at dataAccess.DataAccess.erabiltzaileaErregistratu(DataAccess.java:259)
+	at businessLogic.BLFacadeImplementation.erabiltzaileaErreg(BLFacadeImplementation.java:120)
+	at gui.Erregistratu$2.actionPerformed(Erregistratu.java:86)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2020-03-01 21:47:01 #9 load] 
+Request set: {}
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:48:52 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 15236@DESKTOP-UOETFC7
+
+[2020-03-01 21:48:52 #2 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:48:52 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:48:52 #4 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:48:52 #5 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:48:52 #6 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:48:52 #7 type] 
+Type domain.NormalUser is not enhanced.
+
+[2020-03-01 21:49:09 #8 load] 
+[ObjectDB 2.6.9_09] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 1.8.0_202 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/database/issue/new
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+	at com.objectdb.o.LDR.Vz(LDR.java:1030)
+	at com.objectdb.o.RTT.G(RTT.java:267)
+	at com.objectdb.o.RTT.F(RTT.java:249)
+	at com.objectdb.o.RRT.C(RRT.java:288)
+	at com.objectdb.o.RTT.l(RTT.java:134)
+	at com.objectdb.o.RRT.l(RRT.java:32)
+	at com.objectdb.o.TSK.i(TSK.java:145)
+	at com.objectdb.o.TSK.f(TSK.java:95)
+	at com.objectdb.o.TSM.e(TSM.java:86)
+	at com.objectdb.o.MST.a1(MST.java:707)
+	at com.objectdb.o.MST.aY(MST.java:476)
+	at com.objectdb.o.MST.U6(MST.java:442)
+	at com.objectdb.o.WRA.U6(WRA.java:266)
+	at com.objectdb.o.LDR.G(LDR.java:556)
+	at com.objectdb.o.LDR.F(LDR.java:473)
+	at com.objectdb.o.LDR.A(LDR.java:272)
+	at com.objectdb.o.OBC.aO(OBC.java:1061)
+	at com.objectdb.o.OBC.aM(OBC.java:979)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:599)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:519)
+	at dataAccess.DataAccess.erabiltzaileaErregistratu(DataAccess.java:255)
+	at businessLogic.BLFacadeImplementation.erabiltzaileaErreg(BLFacadeImplementation.java:120)
+	at gui.Erregistratu$2.actionPerformed(Erregistratu.java:86)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2020-03-01 21:49:09 #9 load] 
+Request set: {}
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:50:32 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 54-54)
+
+[2020-03-01 21:50:32 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 22264@DESKTOP-UOETFC7
+
+[2020-03-01 21:50:33 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:50:33 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:50:33 #5 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:50:33 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:50:33 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:50:33 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2020-03-01 21:50:42 #9 load] 
+[ObjectDB 2.6.9_09] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 1.8.0_202 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/database/issue/new
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+	at com.objectdb.o.LDR.Vz(LDR.java:1030)
+	at com.objectdb.o.RTT.G(RTT.java:267)
+	at com.objectdb.o.RTT.F(RTT.java:249)
+	at com.objectdb.o.RRT.C(RRT.java:288)
+	at com.objectdb.o.RTT.l(RTT.java:134)
+	at com.objectdb.o.RRT.l(RRT.java:32)
+	at com.objectdb.o.TSK.i(TSK.java:145)
+	at com.objectdb.o.TSK.f(TSK.java:95)
+	at com.objectdb.o.TSM.e(TSM.java:86)
+	at com.objectdb.o.MST.a1(MST.java:707)
+	at com.objectdb.o.MST.aY(MST.java:476)
+	at com.objectdb.o.MST.U6(MST.java:442)
+	at com.objectdb.o.WRA.U6(WRA.java:266)
+	at com.objectdb.o.LDR.G(LDR.java:556)
+	at com.objectdb.o.LDR.F(LDR.java:473)
+	at com.objectdb.o.LDR.A(LDR.java:272)
+	at com.objectdb.o.OBC.aO(OBC.java:1061)
+	at com.objectdb.o.OBC.aM(OBC.java:979)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:599)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:519)
+	at dataAccess.DataAccess.erabiltzaileaErregistratu(DataAccess.java:255)
+	at businessLogic.BLFacadeImplementation.erabiltzaileaErreg(BLFacadeImplementation.java:120)
+	at gui.Erregistratu$2.actionPerformed(Erregistratu.java:86)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2020-03-01 21:50:42 #10 load] 
+Request set: {}
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-01 21:51:20 #1 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' has been recovered (tr. 55-55)
+
+[2020-03-01 21:51:20 #2 store] 
+Database 'C:\Users\asier\eclipse-workspace\Bets2020-Master\src\main\resources\bets.temp' is opened by 17228@DESKTOP-UOETFC7
+
+[2020-03-01 21:51:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-01 21:51:20 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-01 21:51:20 #5 type] 
+Type domain.user is not enhanced.
+
+[2020-03-01 21:51:20 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-03-01 21:51:20 #7 type] 
+Type domain.Admin is not enhanced.
+
+[2020-03-01 21:51:20 #8 type] 
+Type domain.NormalUser is not enhanced.
+
+[2020-03-01 21:51:20 #9 load] 
+[ObjectDB 2.6.9_09] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 1.8.0_202 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/database/issue/new
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+	at com.objectdb.o.LDR.Vz(LDR.java:1030)
+	at com.objectdb.o.RTT.G(RTT.java:267)
+	at com.objectdb.o.RTT.F(RTT.java:249)
+	at com.objectdb.o.RRT.C(RRT.java:288)
+	at com.objectdb.o.RTT.l(RTT.java:134)
+	at com.objectdb.o.RRT.l(RRT.java:32)
+	at com.objectdb.o.TSK.i(TSK.java:145)
+	at com.objectdb.o.TSK.f(TSK.java:95)
+	at com.objectdb.o.TSM.e(TSM.java:86)
+	at com.objectdb.o.MST.a1(MST.java:707)
+	at com.objectdb.o.MST.aY(MST.java:476)
+	at com.objectdb.o.MST.U6(MST.java:442)
+	at com.objectdb.o.WRA.U6(WRA.java:266)
+	at com.objectdb.o.LDR.G(LDR.java:556)
+	at com.objectdb.o.LDR.F(LDR.java:473)
+	at com.objectdb.o.LDR.A(LDR.java:272)
+	at com.objectdb.o.OBC.aO(OBC.java:1061)
+	at com.objectdb.o.OBC.aM(OBC.java:979)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:599)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:519)
+	at dataAccess.DataAccess.egiaztatuErabiltzailea(DataAccess.java:270)
+	at businessLogic.BLFacadeImplementation.egiaztatuErab(BLFacadeImplementation.java:112)
+	at gui.Login$4.actionPerformed(Login.java:93)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2020-03-01 21:51:20 #10 load] 
+Request set: {}
+
+[2020-03-01 21:51:20 #11 load] 
+[ObjectDB 2.6.9_09] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 1.8.0_202 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/database/issue/new
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+com.objectdb.o.InternalException: Unexpected request domain.NormalUser:'admin'
+	at com.objectdb.o.LDR.Vz(LDR.java:1030)
+	at com.objectdb.o.RTT.G(RTT.java:267)
+	at com.objectdb.o.RTT.F(RTT.java:249)
+	at com.objectdb.o.RRT.C(RRT.java:288)
+	at com.objectdb.o.RTT.l(RTT.java:134)
+	at com.objectdb.o.RRT.l(RRT.java:32)
+	at com.objectdb.o.TSK.i(TSK.java:145)
+	at com.objectdb.o.TSK.f(TSK.java:95)
+	at com.objectdb.o.TSM.e(TSM.java:86)
+	at com.objectdb.o.MST.a1(MST.java:707)
+	at com.objectdb.o.MST.aY(MST.java:476)
+	at com.objectdb.o.MST.U6(MST.java:442)
+	at com.objectdb.o.WRA.U6(WRA.java:266)
+	at com.objectdb.o.LDR.G(LDR.java:556)
+	at com.objectdb.o.LDR.F(LDR.java:473)
+	at com.objectdb.o.LDR.A(LDR.java:272)
+	at com.objectdb.o.OBC.aO(OBC.java:1061)
+	at com.objectdb.o.OBC.aM(OBC.java:979)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:599)
+	at com.objectdb.jpa.EMImpl.find(EMImpl.java:519)
+	at dataAccess.DataAccess.erabiltzaileaLortu(DataAccess.java:251)
+	at businessLogic.BLFacadeImplementation.lortuErab(BLFacadeImplementation.java:126)
+	at gui.Login$4.actionPerformed(Login.java:97)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+
+[2020-03-01 21:51:20 #12 load] 
+Request set: {}
+
