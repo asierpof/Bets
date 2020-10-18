@@ -300,13 +300,11 @@ public void open(boolean initializeMode){
 	}
 
 	public boolean egiaztatuErabiltzailea(String erab, String pass) {
-		Admin us;
-		NormalUser us1;
 		if (db.find(Admin.class, erab) != null) {
-			us = db.find(Admin.class, erab);
+			Admin us = db.find(Admin.class, erab);
 			return pass.equals(us.getPasahitza());
 		} else if (db.find(NormalUser.class, erab) != null) {
-			us1 = db.find(NormalUser.class, erab);
+			NormalUser us1 = db.find(NormalUser.class, erab);
 			return pass.equals(us1.getPasahitza());
 
 		} else
