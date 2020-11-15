@@ -6,7 +6,9 @@ import configuration.UtilDate;
 
 import com.toedter.calendar.JCalendar;
 
+import Iterator.ExtendedIterator;
 import domain.Apustua;
+import domain.Event;
 import domain.Kuota;
 import domain.KuotaContainer;
 import domain.NormalUser;
@@ -118,17 +120,17 @@ public class EmaitzaIpini extends JFrame {
 
 						BLFacade facade = MainGUI.getBusinessLogic();
 
-						List<domain.Event> events = wsl.getEvents(calendarMio.getTime());
-
-						if (events.isEmpty())
+						ExtendedIterator<Event> events =  wsl.getEvents(firstDay);
+						events.goFirst();
+						if (!events.hasNext())
 							jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents") + ": "
 									+ dateformat1.format(calendarMio.getTime()));
 						else
 							jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("Events") + ": "
 									+ dateformat1.format(calendarMio.getTime()));
-						for (domain.Event ev : events) {
+						while (events.hasNext()) {
 							Vector<Object> row = new Vector<Object>();
-
+							Event ev = (Event) events.next();
 							System.out.println("Events " + ev);
 
 							row.add(ev.getEventNumber());

@@ -8,6 +8,8 @@ import javax.swing.*;
 
 import com.toedter.calendar.JCalendar;
 
+import Iterator.ExtendedIterator;
+
 import java.awt.*;
 import java.awt.event.*;
 import java.beans.PropertyChangeEvent;
@@ -116,9 +118,9 @@ public class SortuEvent extends JFrame {
 
 					try {
 
-						List<domain.Event> events = wsl.getEvents(firstDay);
-
-						if (events.isEmpty())
+						ExtendedIterator<Event> event =  wsl.getEvents(firstDay);
+						event.goFirst();
+						if (!event.hasNext())
 							jLabelListOfEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents")
 									+ ": " + dateformat1.format(calendarMio.getTime()));
 						else
@@ -126,11 +128,13 @@ public class SortuEvent extends JFrame {
 									+ dateformat1.format(calendarMio.getTime()));
 						data = calendarMio.getTime();
 						System.out.println(calendarMio.getTime());
-						System.out.println("Events " + events);
-
-						for (domain.Event ev : events)
+						System.out.println("Events " + event);
+						Event ev;
+						event.goFirst();
+						 while (event.hasNext()){
+						 ev=(Event) event.next();
 							modelEvents.addElement(ev);
-
+						 }
 					} catch (Exception e1) {
 
 						jLabelError.setText(e1.getMessage());
@@ -200,6 +204,9 @@ public class SortuEvent extends JFrame {
 				// It could be to trigger an exception if the introduced string is not a number
 
 				System.out.println(data);
+				data.setHours(0);
+				data.setMinutes(0);
+				data.setSeconds(0);
 				// Obtain the business logic from a StartWindow class (local or remote)
 				wsl.sortuGertaera(inputQuery, data);
 				jLabelMsg.setText("ondo sortu da");

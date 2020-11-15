@@ -17,6 +17,8 @@ import exceptions.QuestionAlreadyExist;
 import javax.jws.WebMethod;
 import javax.jws.WebService;
 
+import Iterator.ExtendedIterator;
+
 /**
  * Interface that specifies the business logic.
  */
@@ -45,7 +47,7 @@ public interface BLFacade {
 	 * @return collection of events
 	 */
 	@WebMethod
-	public List<Event> getEvents(Date date);
+	public ExtendedIterator<Event> getEvents(Date date);
 
 	/**
 	 * This method retrieves from the database the dates a month for which there are

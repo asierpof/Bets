@@ -70,19 +70,19 @@ public class ApustuakIkusi extends JFrame {
 						if (question.getResult().equals( ""))
 							emaitzarik = false;
 						if (konta < apu.getApustuKuota().size()) {
-							model.addRow(new Object[] { "", event.getDescription(), question.getQuestion(),
+							model.addRow(new Object[] { "", event.getDescription() + event.getEventDate(), question.getQuestion(),
 									question.getResult(), k.toString(), "", "" });
 						}
 						if (konta == apu.getApustuKuota().size() && emaitzakOngi && emaitzarik) {
-							model.addRow(new Object[] { "", event.getDescription(), question.getQuestion(),
+							model.addRow(new Object[] { "", event.getDescription() + event.getEventDate(), question.getQuestion(),
 									question.getResult(), k.toString(), "", etekina - apu.getApustuDiru() });
 						}
 						if (konta == apu.getApustuKuota().size() && !emaitzakOngi) {
-							model.addRow(new Object[] { "", event.getDescription(), question.getQuestion(),
+							model.addRow(new Object[] { "", event.getDescription()+event.getEventDate(), question.getQuestion(),
 									question.getResult(), k.toString(), "", -apu.getApustuDiru() });
 						}
 						if (konta == apu.getApustuKuota().size() && emaitzakOngi && !emaitzarik) {
-							model.addRow(new Object[] { "", event.getDescription(), question.getQuestion(),
+							model.addRow(new Object[] { "", event.getDescription()+event.getEventDate(), question.getQuestion(),
 									question.getResult(), k.toString(), "", "" });
 						}
 

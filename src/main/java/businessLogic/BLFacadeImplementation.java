@@ -9,6 +9,8 @@ import java.util.Vector;
 import javax.jws.WebMethod;
 import javax.jws.WebService;
 
+import Iterator.ExtendedIterator;
+import Iterator.IteratorDate;
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
 import domain.Question;
@@ -88,11 +90,12 @@ public class BLFacadeImplementation implements BLFacade {
 	 * @return collection of events
 	 */
 	@WebMethod
-	public List<Event> getEvents(Date date) {
+	public ExtendedIterator<Event> getEvents(Date date) {
 		dbManager.open(false);
 		Vector<Event> events = (Vector<Event>) dbManager.getEvents(date);
 		dbManager.close();
-		return events;
+		ExtendedIterator<Event> it = new IteratorDate(events);
+		return it;
 	}
 
 	/**

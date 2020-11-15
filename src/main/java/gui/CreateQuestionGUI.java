@@ -8,6 +8,8 @@ import javax.swing.*;
 
 import com.toedter.calendar.JCalendar;
 
+import Iterator.ExtendedIterator;
+
 import java.awt.*;
 import java.awt.event.*;
 import java.beans.PropertyChangeEvent;
@@ -122,9 +124,9 @@ public class CreateQuestionGUI extends JFrame {
 
 					try {
 
-						List<domain.Event> events = wsl.getEvents(calendarMio.getTime());
-
-						if (events.isEmpty())
+						ExtendedIterator<Event> events = wsl.getEvents(calendarMio.getTime());
+						events.goFirst();
+						if (!events.hasNext())
 							jLabelListOfEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents")
 									+ ": " + dateformat1.format(calendarMio.getTime()));
 						else
@@ -133,11 +135,12 @@ public class CreateQuestionGUI extends JFrame {
 						jComboBoxEvents.removeAllItems();
 						System.out.println("Events " + events);
 						events = wsl.getEvents(calendarMio.getTime());
-						for (domain.Event ev : events)
-							modelEvents.addElement(ev);
+						events.goFirst();
+						 while (events.hasNext())
+							modelEvents.addElement((Event) events.next());
 						jComboBoxEvents.repaint();
-
-						if (events.size() == 0)
+						events.goFirst();
+						if (!events.hasNext() )
 							jButtonCreate.setEnabled(false);
 						else
 							jButtonCreate.setEnabled(true);

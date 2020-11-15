@@ -6,6 +6,8 @@ import configuration.UtilDate;
 
 import com.toedter.calendar.JCalendar;
 
+import Iterator.ExtendedIterator;
+import domain.Event;
 import domain.Kuota;
 import domain.Question;
 
@@ -104,18 +106,17 @@ public class FindQuestionsGUI extends JFrame {
 						tableModelEvents.setDataVector(null, columnNamesEvents);
 						tableModelEvents.setColumnCount(3); // another column added to allocate ev objects
 
-						List<domain.Event> events = wsl.getEvents(calendarMio.getTime());
-						System.out.println(events.size());
-						if (events.isEmpty())
+						ExtendedIterator<Event> events =  wsl.getEvents(firstDay);
+						events.goFirst();
+						if (!events.hasNext())
 							jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("NoEvents") + ": "
 									+ dateformat1.format(calendarMio.getTime()));
 						else
 							jLabelEvents.setText(ResourceBundle.getBundle("Etiquetas").getString("Events") + ": "
 									+ dateformat1.format(calendarMio.getTime()));
-						System.out.println(events.size());
-						for (domain.Event ev : events) {
+						while (events.hasNext()) {
 							List<Object> row = new Vector<Object>();
-
+							Event ev = (Event) events.next();
 							System.out.println("Events " + ev);
 
 							row.add(ev.getEventNumber());
